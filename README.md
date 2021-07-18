@@ -19,7 +19,7 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/1.png
+![Screenshot (10)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/1.png)
 
 TAKING ATTENDANCE:
 ![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
